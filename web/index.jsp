@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
+  <form action="MainServlet" method="post">
+    <% %>
+
+  </form>
   $END$
   </body>
 </html>
